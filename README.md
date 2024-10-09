@@ -8,3 +8,10 @@ You shall need another file of phone numbers called "phone.txt" (in this repo). 
 In a terminal, such as Putty, type: sed -r -f phone_encrypter.sed phone.txt 
 
 The output is a list of the encrypted phone numbers.
+
+
+<br>
+<h2 align="center" width="1200px"> Tech Stack </h2> 
+<p align="center">
+  <img width="400px" src="https://skillicons.dev/icons?i=bash,git&perline=10" />
+</p>
