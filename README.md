@@ -1,4 +1,4 @@
-# Phone-Number-Encryption
+<h2 align="center" width="1200px"> Phone-Number-Encryption </h2> 
 
 This program uses simple regex-matching properties to detect whether an inputted phone number matches a specific format. <br>
 If yes, the program outputs a randomized string of letters as a form of encrypting the inputter number.
